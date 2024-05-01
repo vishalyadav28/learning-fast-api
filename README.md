@@ -1,8 +1,5 @@
-## topic covered
+## topics covered
 
-- JSON compatibility
-- exclude_unset=True/False
-- Depends intro
-- classes and Dependencies
-- Sub-Dependencies
-- Dependencies in path operation
+- security using bearer username and password
+- security using JWT token
+- adding cors and custom middlewares
